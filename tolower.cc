@@ -10,6 +10,7 @@
 #include <sstream>
 #include <cstdlib>
 #include <algorithm>
+#include "tolower.h"
 using namespace std;
 
 /*

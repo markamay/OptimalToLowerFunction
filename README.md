@@ -22,10 +22,13 @@ Please credit me if you decide to use this function. I've spent many years perfe
 
 # FAQ
 - *Why is it when I add `#include "tolower.h"` nothing happens and my IDE shows the line as a comment?*
+
 Because you don't know the difference between C++ and Python
 - *How did you derive this algorithm?*
+
 Many years of procrastination and empty pringle containers.
-- *Are people ** really ** asking you these questions or are you making this stuff up?*
+- *Are people **really** asking you these questions or are you making this stuff up?*
+
 Well uhm... time's up. That's all the time I have for today's Q/A. See you tomorrow folks.
 <br />
 <br />

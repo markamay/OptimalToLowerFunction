@@ -16,7 +16,7 @@ using namespace std;
 /*
     What you are about to read is the result of being in school for too long.
 */
-void tolower(string &str) {
+void AUTHORIZED_PERSONEL_ONLY::CONFIDENTIAL::tolower(string &str) {
 
     /* Adding recursion will make you seem smarter */
     string possible_answer;

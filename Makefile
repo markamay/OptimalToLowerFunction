@@ -2,8 +2,8 @@
 #TODO: write a decent C++ program
 #TODO: get a life
 coding_genius.out:
-	g++ tolower.cc main.cc
-	echo "You're welcome."
+	g++ tolower.cc main.cc -o magic_prog
+	@echo "You're welcome."
 
 clean:
-	echo "No need to clean. It's already perfect."
+	@echo "No need to clean. It's already perfect."
